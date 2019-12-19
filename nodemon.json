@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "victor",
+        "MONGO_PASSWORD": "1234",
+        "MONGO_DATABASE": "TugasAkhir"
+    }
+}
